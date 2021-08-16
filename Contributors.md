@@ -12342,6 +12342,7 @@ Isabella Namutendda
 - [Isaac Mick](https://github.com/Isaac-Mick)
 - [Karan Khanna](https://github.com/abstractk)
 - [Quentin Tang](https://github.com/SilverChicken)
+- [Poorvi Badaya](https://github.com/poorvibadaya)
 - [Hossien Top](https://github.com/hossientop)
 - [Andy Ngo](https://github.com/andyngo2021) -[Lahiru Rajapaksa]
 - [Jotaro](https://github.com/JotaroS)
